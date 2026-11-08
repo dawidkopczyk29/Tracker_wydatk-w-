@@ -1,0 +1,37 @@
+{
+  "id": "./",
+  "name": "Skarbiec Smoka",
+  "short_name": "Skarbiec",
+  "description": "Prosty tracker wydatków: zapisuj, na co wydajesz pieniądze, i sprawdzaj, ile oszczędzasz.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ecdcb8",
+  "theme_color": "#9c2616",
+  "lang": "pl",
+  "categories": [
+    "finance",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
